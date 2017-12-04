@@ -1,2 +1,3 @@
 This is the initial file created
-
+adding some text for testing commit
+Adding text to check the staged status
