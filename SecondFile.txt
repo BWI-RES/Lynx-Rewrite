@@ -1,1 +1,2 @@
 This is the second file added to test the staged status.
+Modifying to check the status
