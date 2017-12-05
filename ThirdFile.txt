@@ -1,0 +1,2 @@
+This is a sample file for checking stash command
+Changes made after add
