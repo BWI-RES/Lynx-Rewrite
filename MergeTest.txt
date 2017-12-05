@@ -1,7 +1,6 @@
-
 This file is added to test merge
-<<<<<<< Updated upstream
+
 Testing merge from two different Bash Windows
-=======
+
 Checking stash
->>>>>>> Stashed changes
+
