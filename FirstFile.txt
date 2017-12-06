@@ -4,4 +4,8 @@ Adding text to check the staged status
 Adding text to see diff
 This is the text added in Dev1.0 branch for new deveopment changes
 This text is added to test merge command
+
 This is a hot fix in the code
+
+Added by user TekGitHubTraining
+
