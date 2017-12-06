@@ -1,6 +1,0 @@
-This file is added to test merge
-
-Testing merge from two different Bash Windows
-
-Checking stash
-
